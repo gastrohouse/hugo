@@ -1,8 +1,8 @@
 ---
-menu:
+daily:
 - day: 9. 7. Pondelok
   food:
-  - title: 'Paradajková polievka so syrom '
+  - title: Paradajková polievka so syrom
   - title: Hovädzie s tekvicovou omáčkou, knedľa
     mark: A
     price: '3,50'
