@@ -38,13 +38,14 @@ daily:
     title: Tofu syr po čínsky, ryža
   day: 10. 7. Utorok
 intro:
-  title: 'Gastro House'
+  title: Gastro House
   perex: ''
   button:
     title: ''
     url: ''
-  image: "intro.jpg"
+  image: intro.jpg
 nazor:
   title: Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor.
   cta: Ohodnotiť
+
 ---
