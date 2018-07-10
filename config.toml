@@ -1,38 +1,48 @@
----
-title: Gastro House
-baseURL: https://gastrohouse.sk
-disableHugoGeneratorInject: true
-outputs:
-  home:
-  - HTML
-  page:
-  - HTML
-taxonomies:
-  tag: ''
-  category: ''
-  group: ''
-menu:
-  footer:
-  - name: Google
-    url: https://google.sk
-    weight: 1
-  - name: Kontakt
-    url: "/kontakt/"
-    weight: 2
-  - name: O nás
-    url: "/o-nas/"
-    weight: 1
-  secondary:
-  - name: Denné menu
-    url: "/#denne-menu"
-    weight: 2
-  - name: Jedálny lístok
-    url: "/jedalny-listok/"
-    weight: 1
-  main:
-  - name: Kontakt
-    url: "/kontakt/"
-    weight: 2
-  - name: O nás
-    url: "/o-nas/"
-    weight: 1
+title = "Gastro House"
+baseURL = "https://gastrohouse.sk"
+disableHugoGeneratorInject = true
+
+[outputs]
+home = [
+  "HTML"
+]
+page = [
+  "HTML"
+]
+
+[taxonomies]
+tag = ""
+category = ""
+group = ""
+
+[menu]
+
+  [[menu.main]]
+  name = "O nás"
+  url = "/o-nas/"
+  weight = 1.0
+
+  [[menu.main]]
+  name = "Kontakt"
+  url = "/kontakt/"
+  weight = 2.0
+
+  [[menu.secondary]]
+  name = "Jedálny lístok"
+  url = "/jedalny-listok/"
+  weight = 1.0
+
+  [[menu.secondary]]
+  name = "Denné menu"
+  url = "/#denne-menu"
+  weight = 2.0
+
+  [[menu.footer]]
+  name = "O nás"
+  url = "/o-nas/"
+  weight = 1.0
+
+  [[menu.footer]]
+  name = "Kontakt"
+  url = "/kontakt/"
+  weight = 2.0

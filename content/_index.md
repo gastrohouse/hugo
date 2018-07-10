@@ -1,51 +1,78 @@
----
-daily:
-- day: 9. 7. Pondelok
-  food:
-  - title: Paradajková polievka so syrom
-  - title: Hovädzie s tekvicovou omáčkou, knedľa
-    mark: A
-    price: '3,50'
-  - title: Bravčový záhorácky závitok, ryža
-    mark: B
-    price: '3,30'
-  - title: Kurací gyros s cesnakovou omáčkou, hranolky
-    mark: C
-    price: '3,30'
-  - title: Kelový prívarok s fašírkou
-    mark: D
-    price: '3,30'
-  - title: Parené buchty s kakaom a cukrom
-    mark: E
-    price: '3,20'
-- food:
-  - title: Fazuľová polievka s mrkvou
-    price: 0,80
-  - title: Hovädzí kotlíkový guláš s haluškami
-    mark: A
-    price: '3,50'
-  - title: Bravčová pečená krkovička s kapustou, knedľa
-    mark: B
-    price: '3,30'
-  - title: Kuracie prsia s nivovou omáčkou, opekané zemiaky
-    mark: C
-    price: '3,30'
-  - title: Bryndzové tašky so slaninkou
-    mark: D
-    price: '3,30'
-  - mark: E
-    price: '3,20'
-    title: Tofu syr po čínsky, ryža
-  day: 10. 7. Utorok
-intro:
-  title: Gastro House
-  perex: ''
-  button:
-    title: ''
-    url: ''
-  image: intro.jpg
-nazor:
-  title: Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor.
-  cta: Ohodnotiť
++++
+[[daily]]
+  day = "9. 7. Pondelok"
 
----
+  [[daily.food]]
+    title = "Paradajková polievka so syrom"
+
+  [[daily.food]]
+    mark = "A"
+    price = "3,50"
+    title = "Hovädzie s tekvicovou omáčkou, knedľa"
+
+  [[daily.food]]
+    mark = "B"
+    price = "3,30"
+    title = "Bravčový záhorácky závitok, ryža"
+
+  [[daily.food]]
+    mark = "C"
+    price = "3,30"
+    title = "Kurací gyros s cesnakovou omáčkou, hranolky"
+
+  [[daily.food]]
+    mark = "D"
+    price = "3,30"
+    title = "Kelový prívarok s fašírkou"
+
+  [[daily.food]]
+    mark = "E"
+    price = "3,20"
+    title = "Parené buchty s kakaom a cukrom"
+
+[[daily]]
+  day = "10. 7. Utorok"
+
+  [[daily.food]]
+    price = "0,80"
+    title = "Fazuľová polievka s mrkvou"
+
+  [[daily.food]]
+    mark = "A"
+    price = "3,50"
+    title = "Hovädzí kotlíkový guláš s haluškami"
+
+  [[daily.food]]
+    mark = "B"
+    price = "3,30"
+    title = "Bravčová pečená krkovička s kapustou, knedľa"
+
+  [[daily.food]]
+    mark = "C"
+    price = "3,30"
+    title = "Kuracie prsia s nivovou omáčkou, opekané zemiaky"
+
+  [[daily.food]]
+    mark = "D"
+    price = "3,30"
+    title = "Bryndzové tašky so slaninkou"
+
+  [[daily.food]]
+    mark = "E"
+    price = "3,20"
+    title = "Tofu syr po čínsky, ryža"
+
+[intro]
+  image = "intro.jpg"
+  perex = ""
+  title = "Gastro House"
+  [intro.button]
+    title = ""
+    url = ""
+
+[nazor]
+  cta = "Ohodnotiť"
+  title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
+
++++
+
