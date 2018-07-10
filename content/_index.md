@@ -14,6 +14,7 @@ title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
 day = "9. 7. Pondelok"
 [[daily.food]]
+price = "0,80"
 title = "Paradajková polievka so syrom"
 [[daily.food]]
 mark = "A"
