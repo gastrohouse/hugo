@@ -1,48 +1,34 @@
-title = "Gastro House"
 baseURL = "https://gastrohouse.sk"
 disableHugoGeneratorInject = true
-
+title = "Gastro House"
+[[menu.footer]]
+name = "Kontakt"
+url = "/kontakt/"
+weight = 2
+[[menu.footer]]
+name = "O nás"
+url = "/o-nas/"
+weight = 1
+[[menu.main]]
+name = "Kontakt"
+url = "/kontakt/"
+weight = 2
+[[menu.main]]
+name = "O nás"
+url = "/o-nas/"
+weight = 1
+[[menu.secondary]]
+name = "Denné menu"
+url = "/#denne-menu"
+weight = 2
+[[menu.secondary]]
+name = "Jedálny lístok"
+url = "/jedalny-listok/"
+weight = 1
 [outputs]
-home = [
-  "HTML"
-]
-page = [
-  "HTML"
-]
-
+home = ["HTML"]
+page = ["HTML"]
 [taxonomies]
-tag = ""
 category = ""
 group = ""
-
-[menu]
-
-  [[menu.main]]
-  name = "O nás"
-  url = "/o-nas/"
-  weight = 1.0
-
-  [[menu.main]]
-  name = "Kontakt"
-  url = "/kontakt/"
-  weight = 2.0
-
-  [[menu.secondary]]
-  name = "Jedálny lístok"
-  url = "/jedalny-listok/"
-  weight = 1.0
-
-  [[menu.secondary]]
-  name = "Denné menu"
-  url = "/#denne-menu"
-  weight = 2.0
-
-  [[menu.footer]]
-  name = "O nás"
-  url = "/o-nas/"
-  weight = 1.0
-
-  [[menu.footer]]
-  name = "Kontakt"
-  url = "/kontakt/"
-  weight = 2.0
+tag = ""
