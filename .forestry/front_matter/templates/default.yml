@@ -20,3 +20,4 @@ fields:
   default: ''
 pages:
 - content/sent.md
+- content/kontakt.html
