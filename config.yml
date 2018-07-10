@@ -1,0 +1,38 @@
+title: Gastro House
+baseURL: "https://gastrohouse.sk"
+disableHugoGeneratorInject: true
+
+outputs:
+  home:
+    - HTML
+  page:
+    - HTML
+
+taxonomies:
+  tag: ''
+  category: ''
+  group: ''
+
+menu:
+  main:
+    - name: O nás
+      url: /o-nas/
+      weight: 1
+    - name: Kontakt
+      url: /kontakt/
+      weight: 2
+  secondary:
+    - name: Jedálny lístok
+      url: /jedalny-listok/
+      weight: 1
+    - name: Denné menu
+      url: /#denne-menu
+      weight: 2
+  footer:
+    - name: O nás
+      url: /o-nas/
+      weight: 1
+    - name: Kontakt
+      url: /kontakt/
+      weight: 2
+      
