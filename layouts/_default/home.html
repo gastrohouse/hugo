@@ -1,43 +1,5 @@
 {{ define "main" }}
 
-{{ with .Params.intro }}
-<section class="intro">
-<div>
-<div>
-{{ if .title }}<h2>{{ .title }}</h2>{{ end }}
-{{ if .perex }}<p>{{ .perex }}</p>{{ end }}
-{{ with .button }}{{ if and (.title) (.url) }}<a href="{{ .url }}">{{ .title }}</a>{{ end }}{{ end }}
-</div>
-</div>
-<img src="{{ default "intro.jpg" .image | relURL }}" alt="">
-</section>
-{{ end }}
-
-{{ with .Params.menu }}
-<a id="denne-menu" class="anchor"></a>
-<section class="denne-menu">
-<div><h2>Denné menu</h2><img src="{{ "tanier.jpg" | relURL }}" alt=""></div>
-<div>
-
-{{ range . }}
-<section>
-<h2>{{ .day }}</h2>
-<ul>
-{{ range .food }}
-<li>{{ if isset . "mark" }}<div>{{ .mark }}</div>{{ end }}<h3>{{ .title }}</h3>{{ if isset . "price" }}<div>{{ .price }}&nbsp;&euro;</div>{{ end }}</li>
-{{ end }}
-</ul>
-</section>
-{{ end }}
-</div>
-</section>
-{{ end }}
-
-{{ with .Params.nazor }}
-<section class="nazor">
-{{ if .title }}<h2>{{ .title }}</h2>{{ end }}
-{{ if .cta }}<a href="{{ "/kontakt/" | relURL }}">{{ .cta }}</a>{{ end }}
-</section>
-{{ end }}
+Homepage
 
 {{ end }}
