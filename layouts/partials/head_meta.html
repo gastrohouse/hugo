@@ -1,8 +1,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>{{ .Site.Title }}</title>
+<title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 <meta name="robots" content="index,follow">
 <link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700&#038;subset=latin-ext" rel="stylesheet">
+<link rel="stylesheet" href="{{ (resources.Get "style.css" | fingerprint ).Permalink | relURL }}">
 <link rel="icon" href="{{ "favicon.png" | relURL }}">
 </head>
