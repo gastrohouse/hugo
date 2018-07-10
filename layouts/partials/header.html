@@ -12,29 +12,7 @@
 
 <div class="offsite" id="main-menu">
 
-{{ $current_slug := .Permalink | relURL }}
 
-{{ with .Site.Menus.main }}
-<nav>
-<h2>Hlavná navigácia</h2>
-{{ range . }}
-{{ $slug := .URL | relURL }}
-<a href="{{ $slug }}"{{ if eq $current_slug $slug }} class="active"{{end}}>{{ .Name }}</a>
-{{ end }}
-</nav>
-{{ end }}
-
-<a href="{{ "/" | relURL }}" class="logo"><img src="{{ "logo.svg" | relURL }}" alt="logo"></a>
-
-{{ with .Site.Menus.secondary }}
-<nav>
-<h2>Jedlo</h2>
-{{ range . }}
-{{ $slug := .URL | relURL }}
-<a href="{{ $slug }}"{{ if eq $current_slug $slug }} class="active"{{end}}>{{ .Name }}</a>
-{{ end }}
-</nav>
-{{ end }}
 
 </div>
 
