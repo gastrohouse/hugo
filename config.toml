@@ -1,5 +1,6 @@
 baseURL = "https://gastrohouse.sk"
 disableHugoGeneratorInject = true
+disableKinds = ["sitemap","RSS"]
 title = "Gastro House"
 [[menu.footer]]
 name = "Kontakt"
