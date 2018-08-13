@@ -48,7 +48,7 @@ title = "Hovädzia pražská pečienka, slovenská ryža"
 [[daily.food]]
 mark = "B"
 price = "3.30"
-title = "Bravčový plnen á paprika na paradajkovej omáčke, knedľa"
+title = "Bravčová plnená paprika na paradajkovej omáčke, knedľa"
 [[daily.food]]
 mark = "C"
 price = "3.30"
