@@ -19,7 +19,7 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/sent.md
-- content/kontakt.html
-- content/o-nas.md
 - content/jedalny-listok.html
+- content/o-nas.md
+- content/kontakt.html
+- content/sent.md

@@ -68,7 +68,7 @@ title = "Zeleninové rezy, zemiaková kaša"
 day = "20. 8. Pondelok"
 [[daily.food]]
 price = "0,80"
-title = "Francúzska polievka s udeným mäsom"
+title = "Frankfurtská polievka s udeným mäsom"
 [[daily.food]]
 mark = "A"
 price = "3,50"
@@ -78,6 +78,8 @@ mark = "B"
 price = "3,30"
 title = "Bravčové srbské mäso, ryža"
 [[daily.food]]
+mark = "C"
+price = "3,30"
 title = "Kurací gyros s tzatziky, opekané zemiaky"
 [[daily.food]]
 mark = "D"
