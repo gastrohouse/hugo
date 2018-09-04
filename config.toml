@@ -2,6 +2,13 @@ baseURL = "https://gastrohouse.sk"
 disableHugoGeneratorInject = true
 disableKinds = ["sitemap","RSS"]
 title = "Gastro House"
+
+[params]
+[params.cloudinary]
+url = "https://res.cloudinary.com/gastrohouse/image/upload/q_auto:good"
+widths = [200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000]
+default = 400
+
 [[menu.footer]]
 name = "Kontakt"
 url = "/kontakt/"

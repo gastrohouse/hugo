@@ -9,7 +9,7 @@
 {{- with .button -}}{{ if and (.title) (.url) }}<a href="{{ .url }}">{{ .title }}</a>{{ end }}{{- end -}}
 </div>
 </div>
-{{- with .image -}}<img src="{{ . }}" alt="">{{- end -}}
+{{- with .image -}}{{- partial "image.html" (dict "path" . "settings" $.Site.Params.cloudinary "sizes" "100vw") -}}{{- end -}}
 </section>
 {{- end }}
 
