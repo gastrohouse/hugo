@@ -15,12 +15,10 @@ fields:
   - type: list
     name: widths
     label: Widths
-  - type: number
-    name: default
+  - type: text
     label: Default
+    name: default
     config:
       required: true
-      min: '100'
-      step: '1'
 data_files:
 - config.toml
