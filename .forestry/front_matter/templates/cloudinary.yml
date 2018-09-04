@@ -1,0 +1,18 @@
+---
+label: cloudinary
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  label: url
+  name: url
+  config:
+    required: true
+- type: list
+  label: Widths
+  name: widths
+- type: text
+  name: default
+  label: Default
+  config:
+    required: true
