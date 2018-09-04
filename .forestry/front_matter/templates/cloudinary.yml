@@ -1,18 +1,24 @@
 ---
-label: cloudinary
+label: config
 hide_body: true
 is_partial: false
 fields:
-- type: text
-  label: url
-  name: url
-  config:
-    required: true
-- type: list
-  label: Widths
-  name: widths
-- type: text
-  name: default
-  label: Default
-  config:
-    required: true
+- type: field_group
+  name: cloudinary
+  label: Cloudinary
+  fields:
+  - type: text
+    name: url
+    label: URL
+    config:
+      required: true
+  - type: list
+    name: widths
+    label: Widths
+  - type: number
+    name: default
+    label: Default
+    config:
+      required: true
+      min: '100'
+      step: '1'
