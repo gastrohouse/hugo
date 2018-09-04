@@ -1,1 +1,1 @@
-<img src="{{ printf "%s/w_%d/%s" .settings.url .settings.default .path }}" srcset="{{ delimit (apply (split .settings.widths ",") "printf" "%s/w_%s/%s %sw" .settings.url "." .path ".") "," }}" sizes="{{ .sizes }}" alt="">
+<img src="{{ printf "%s/w_%d/%s" .settings.url .settings.default .path }}" srcset="{{ delimit (apply .settings.widths "printf" "%s/w_%s/%s %sw" .settings.url "." .path ".") "," }}" sizes="{{ .sizes }}" alt="">
