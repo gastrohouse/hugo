@@ -22,3 +22,5 @@ fields:
       required: true
       min: '100'
       step: '1'
+data_files:
+- config.toml
