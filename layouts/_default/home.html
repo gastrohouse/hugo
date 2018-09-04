@@ -9,7 +9,7 @@
 {{- with .button -}}{{ if and (.title) (.url) }}<a href="{{ .url }}">{{ .title }}</a>{{ end }}{{- end -}}
 </div>
 </div>
-<img src="{{ default "intro.jpg" .image | relURL }}" alt="">
+{{- with .image -}}<img src="{{ . }}" alt="">{{- end -}}
 </section>
 {{- end }}
 
