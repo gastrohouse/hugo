@@ -12,54 +12,80 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "3. 9. Pondelok"
+day = "5. 9. Streda"
 [[daily.food]]
 price = "0,80"
-title = "Fazuľová polievka na kyslo"
+title = "Brokolicová polievka"
 [[daily.food]]
 mark = "A"
 price = "3,50"
-title = "Hovädzia na kôprovej omáčke, knedľa"
+title = "Hovädzie debrecínske, knedľa"
 [[daily.food]]
 mark = "B"
 price = "3,30"
-title = "Bravčový záhorácky závitok"
+title = "Bravčové mexické soté, ryža"
 [[daily.food]]
 mark = "C"
 price = "3,30"
-title = "Kuracie soté na zelenine, ryža"
+title = "Grilované kurčatá, ryža"
 [[daily.food]]
 mark = "D"
 price = "3,30"
-title = "Luskový prívarok s fašírkou, varené zemiaky "
+title = "Zemiakové gulky s udeným mäsom a kapustou"
 [[daily.food]]
-mark = "E"
-price = "3,20"
-title = "Parené buchty s makom a maslom"
+title = "Vyprážaný encián, opekané zemiaky TO"
 [[daily]]
-day = "4. 9. Utorok"
+day = "6. 9. Štvrtok"
 [[daily.food]]
 price = "0,80"
-title = "Zermiaková polievka"
+title = "Hrachová polievka s mrkvou"
 [[daily.food]]
 mark = "A"
-price = "3,50"
-title = "Hovädzie stroganoff, ryža"
+price = "3,30"
+title = "Segedínsky guláš, knedľa"
 [[daily.food]]
 mark = "B"
 price = "3,30"
-title = "Bravčový vrabec s kapustou, knedľa"
+title = "Bravčové rebierko na slaninovej omáčke, ryža"
 [[daily.food]]
 mark = "C"
 price = "3,30"
-title = "Kuracie prsia s anglickou zeleninou, varené zemiaky"
+title = "Kuracie rizoto"
 [[daily.food]]
 mark = "D"
 price = "3,30"
-title = "Penne s bolognskou omáčkou a syrom"
+title = "Bravčová pečeň na cibulke, ryža"
 [[daily.food]]
 mark = "E"
 price = "3,20"
-title = "Vyprážaný karfiol, varené zemiaky"
+title = "Zapekané cestoviny so zeleninou"
+[[daily]]
+day = "7. 9. Piatok"
+[[daily.food]]
+price = "0,80"
+title = "Držková polievka"
+[[daily.food]]
+price = "0,80"
+title = "Cesnaková polievka"
+[[daily.food]]
+mark = "A"
+price = "3,50"
+title = "Hovädzia šťavnatá pečienka, ryža"
+[[daily.food]]
+mark = "B"
+price = "3,30"
+title = "Bravčový guláš, knedľa"
+[[daily.food]]
+mark = "C"
+price = "3,30"
+title = "Kuracie prsia na nivovej omáčke, opekané zemiaky"
+[[daily.food]]
+mark = "D"
+price = "3,30"
+title = "Bryndzové tašky so slaninkou a smotanou"
+[[daily.food]]
+mark = "E"
+price = "3,20"
+title = "Špenát s vajcom, varené zemiaky"
 
 +++
