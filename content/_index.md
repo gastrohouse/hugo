@@ -12,52 +12,70 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "10. 9. Streda"
+day = "12. 9. Streda"
 [[daily.food]]
 price = "0,80"
-title = "Minestrone s cestovinou"
+title = "Kapustová polievka"
 [[daily.food]]
 mark = "A"
 price = "3,50"
-title = "Hovädzie s tekvicovou omáčkou, knedľa"
+title = "Hovädzia pražská pečienka, ryža"
 [[daily.food]]
 mark = "B"
 price = "3,30"
-title = "Bravčová pečeň na cibulke, ryža"
+title = "Bravčové stehno hamburské, knedľa"
 [[daily.food]]
 mark = "C"
 price = "3,30"
-title = "Kurací perkelt s haluškami"
+title = "Kurací rezeň, zemiaková kaša"
 [[daily.food]]
 mark = "D"
 price = "3,30"
-title = "Kelový prívarok s klobásou"
-[[daily.food]]
-title = "Ryžový nákyp s jablkami"
-[[daily]]
-day = "11. 9. Štvrtok"
-[[daily.food]]
-price = "0,80"
-title = "Šošovicová polievka"
-[[daily.food]]
-mark = "A"
-price = "3,30"
-title = "Maďarský hovädzí guláš, knedľa"
-[[daily.food]]
-mark = "B"
-price = "3,30"
-title = "Bravčová drotárska kapsa, ryža"
-[[daily.food]]
-mark = "C"
-price = "3,30"
-title = "Kuracie prsia na hlivovej omáčke, ryža"
-[[daily.food]]
-mark = "D"
-price = "3,30"
-title = "Vyprážaný Pangasius, zemiaková kaša"
+title = "Čevapčiči s cibuľou a horčicou, varené zemiaky"
 [[daily.food]]
 mark = "E"
 price = "3,20"
-title = "Kapustové fliačky na slano"
+title = "Zapekaná brokolica so zemiakmi "
+[[daily]]
+day = "13. 9. Štvrtok"
+[[daily.food]]
+price = "0,80"
+title = "Karfiolová polievka"
+[[daily.food]]
+mark = "A"
+price = "3,30"
+title = "Hovädzie chilli con carne, ryža"
+[[daily.food]]
+mark = "B"
+price = "3,30"
+title = "Bravčová pečená krkovička s kapustou, knedľa"
+[[daily.food]]
+mark = "C"
+price = "3,30"
+title = "Kuracie prsia na prírodno, hranolky"
+[[daily.food]]
+mark = "D"
+price = "3,30"
+title = "Lasagne"
+[[daily.food]]
+mark = "E"
+price = "3,20"
+title = "Tofu zapekané s brokolicou, varené zemiaky"
+[[daily]]
+day = "14. 9. Piatok"
+[[daily.food]]
+title = ""
+[[daily.food]]
+title = ""
+[[daily.food]]
+title = ""
+[[daily.food]]
+title = ""
+[[daily.food]]
+title = ""
+[[daily.food]]
+title = ""
+[[daily.food]]
+title = ""
 
 +++
