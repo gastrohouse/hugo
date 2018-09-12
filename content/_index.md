@@ -61,21 +61,5 @@ title = "Lasagne"
 mark = "E"
 price = "3,20"
 title = "Tofu zapekané s brokolicou, varené zemiaky"
-[[daily]]
-day = "14. 9. Piatok"
-[[daily.food]]
-title = ""
-[[daily.food]]
-title = ""
-[[daily.food]]
-title = ""
-[[daily.food]]
-title = ""
-[[daily.food]]
-title = ""
-[[daily.food]]
-title = ""
-[[daily.food]]
-title = ""
 
 +++
