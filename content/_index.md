@@ -14,55 +14,55 @@ title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
 day = "26. 9. Streda"
 [[daily.food]]
-price = "0,80"
+price = ""
 title = "Hrachová polievka s krutónmi"
 [[daily.food]]
 mark = "A"
-price = "3,50"
+price = ""
 title = "Hovädzie na tekvicovej omáčke, knedľa"
 [[daily.food]]
 mark = "B"
-price = "3,30"
+price = ""
 title = "Bravčové medajlónky na pikantnej omáčke, ryža"
 [[daily.food]]
 mark = "C"
-price = "3,30"
+price = ""
 title = "Kurací černohorský rezeň, opekané zemiaky"
 [[daily.food]]
 mark = "D"
-price = "3,30"
+price = ""
 title = "Zapekané zemiaky s kapustou a mletým mäsom"
 [[daily.food]]
 mark = "E"
-price = "3,20"
+price = ""
 title = "Encián na grile s čučoriedkovou omáčkou, opekané zemiaky"
 [[daily]]
 day = "27. 9. Štvrtok"
 [[daily.food]]
-price = "0,80"
+price = ""
 title = "Rybacia polievka"
 [[daily.food]]
-price = "0,80"
+price = ""
 title = "Paradajková polievka "
 [[daily.food]]
 mark = "A"
-price = "3,30"
+price = ""
 title = "Hovädzie filé, ryža"
 [[daily.food]]
 mark = "B"
-price = "3,30"
+price = ""
 title = "Bravčový segedínsky guláš"
 [[daily.food]]
 mark = "C"
-price = "3,30"
+price = ""
 title = "Kuracie prsia na nivovej omáčke, ryža"
 [[daily.food]]
 mark = "D"
-price = "3,30"
+price = ""
 title = "Mletý rezeň so syrom, zemiaková kaša"
 [[daily.food]]
 mark = "E"
-price = "3,20"
+price = ""
 title = "Granatiersky pochod s uhorkou"
 
 +++
