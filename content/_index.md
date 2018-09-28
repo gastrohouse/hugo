@@ -38,7 +38,7 @@ title = "Bravčová pečeň na cibuľke, ryža"
 [[daily.food]]
 mark = "E"
 price = ""
-title = "Rizoto so syrom a zeleninou"
+title = "Rizoto so sójou a zeleninou"
 [[daily]]
 day = "1. 10. Pondelok"
 [[daily.food]]
