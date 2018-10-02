@@ -20,6 +20,6 @@ fields:
   default: ''
 pages:
 - content/jedalny-listok.html
-- content/o-nas.md
 - content/kontakt.html
+- content/o-nas.md
 - content/sent.md
