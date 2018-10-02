@@ -44,9 +44,6 @@ fields:
         - E
         - F
       label: Mark
-    - type: text
-      name: price
-      label: Price
     hidden: false
     default: ''
   hidden: false

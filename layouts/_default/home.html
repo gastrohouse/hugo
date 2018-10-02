@@ -24,7 +24,7 @@
 <h2>{{ .day }}</h2>
 <ul>
 {{- range .food -}}
-<li>{{ if isset . "mark" }}<div>{{ .mark }}</div>{{ end }}<h3>{{ .title }}</h3>{{ if isset . "price" }}<div>{{ .price }}&nbsp;&euro;</div>{{ end }}</li>
+<li>{{ if isset . "mark" }}<div>{{ .mark }}</div>{{ end }}<h3>{{ .title }}</h3></li>
 {{ end -}}
 </ul>
 </section>
