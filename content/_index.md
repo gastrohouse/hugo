@@ -36,32 +36,5 @@ title = "Zapekané cestoviny s lečom a mäsom"
 mark = "E"
 price = ""
 title = "Bryndzové tašky so smotanou a slaninkou"
-[[daily]]
-day = "5. 10. Piatok"
-[[daily.food]]
-title = "Držková polievka"
-[[daily.food]]
-price = ""
-title = "Krupková polievka"
-[[daily.food]]
-mark = "A"
-price = ""
-title = "Hovädzie znojemské, ryža"
-[[daily.food]]
-mark = "B"
-price = ""
-title = "Bravčový guláš, knedľa"
-[[daily.food]]
-mark = "C"
-price = ""
-title = "Kuracie prsia plnené so šunkou a syrom, opekané zemiaky"
-[[daily.food]]
-mark = "D"
-price = ""
-title = "Lasagne"
-[[daily.food]]
-mark = "E"
-price = ""
-title = "Vyprážaný encián s čučoriedkovou omáčkou, varené zemiaky"
 
 +++
