@@ -12,30 +12,30 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "4. 10. Štvrtok"
+day = "9. 10. Utorok"
 [[daily.food]]
 price = ""
-title = "Lusková polievka"
+title = "Šampiónová polievka"
 [[daily.food]]
 mark = "A"
 price = ""
-title = "Hovädzie debrecínske, knedľa"
+title = "Hovädzie chilli con carne, ryža"
 [[daily.food]]
 mark = "B"
 price = ""
-title = "Bravčové soté, slovenská ryža"
+title = "Bravčová krkovička s kapustou, knedľa"
 [[daily.food]]
 mark = "C"
 price = ""
-title = "Grilované kurča, ryža"
+title = "Kuracie prsia plnené brokolicou, varené zemiaky"
 [[daily.food]]
 mark = "D"
 price = ""
-title = "Boloňské špagety so syrom"
+title = "Zapekané cestoviny s lečom a mäsom"
 [[daily.food]]
 mark = "E"
 price = ""
-title = "Vyprážaný karfiol, varené zemiaky"
+title = "Bryndzové tašky so smotanou a slaninkou"
 [[daily]]
 day = "5. 10. Piatok"
 [[daily.food]]
