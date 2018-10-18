@@ -12,7 +12,7 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "18. 10. Utorok"
+day = "18. 10. Štvrtok"
 [[daily.food]]
 title = "Šošovicová polievka na kyslo"
 [[daily.food]]
@@ -31,7 +31,7 @@ title = "Domáca lahôdková sekaná, zemiaková kaša"
 mark = "E"
 title = "Palacinky s džemom, ovocím, čokoládou a šlahačkou"
 [[daily]]
-day = "19. 10. Streda"
+day = "19. 10. Piatok"
 [[daily.food]]
 title = "Cesnaková polievka"
 [[daily.food]]
