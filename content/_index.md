@@ -12,50 +12,47 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "18. 10. Štvrtok"
+day = "22. 10. Pondelok"
 [[daily.food]]
-title = "Šošovicová polievka na kyslo"
+title = "Hrachová polievka s krutónmi a mrkvou"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie na španielský spôsob, knedľa"
+title = "Hovädzie na chrenovej omáčke, knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčové mexické soté, ryža"
+title = "Bravčové na paprike, halušky"
 [[daily.food]]
 mark = "C"
-title = "Kuracie vyprážané stehná, ryža"
+title = "Kuracie soté s brokolicou, ryža"
 [[daily.food]]
 mark = "D"
-title = "Domáca lahôdková sekaná, zemiaková kaša"
+title = "Zemiaky na kyslo s fašírkou"
 [[daily.food]]
 mark = "E"
-title = "Palacinky s džemom, ovocím, čokoládou a šlahačkou"
+title = "Jablkovo tvarohová žemlovka"
 [[daily]]
-day = "19. 10. Piatok"
+day = "23. 10. Utorok"
 [[daily.food]]
-title = "Cesnaková polievka"
-[[daily.food]]
-price = ""
-title = "Držková polievka "
+title = "Drobková polievka"
 [[daily.food]]
 mark = "A"
 price = ""
-title = "Hovädze na bratislavský spôsob, knedľa"
+title = "Hovädzí maďarský guláš, knedľa"
 [[daily.food]]
 mark = "B"
 price = ""
-title = "Bravčové na šampiónoch, ryža"
+title = "Bravčové pliecko na pive, ryža"
 [[daily.food]]
 mark = "C"
 price = ""
-title = "Kuracie rizotto so syrom"
+title = "Kuracie prsia so zeleninou, varené zemiaky"
 [[daily.food]]
 mark = "D"
 price = ""
-title = "Špenát s vajcom, varené zemiaky"
+title = "Rybie filé zapekané so syrovým bešamelom a brokolicou, zemiaková kaša"
 [[daily.food]]
 mark = "E"
 price = ""
-title = "Mäsové Lasagne"
+title = "Tofu syr so sojovým mäsom a zeleninou, varené zemiaky"
 
 +++
