@@ -50,9 +50,5 @@ title = "Kuracie prsia na kari omáčke, opekané zemiaky"
 mark = "D"
 price = ""
 title = "Zapekané cestoviny so zeleninou"
-[[daily.food]]
-mark = "E"
-price = ""
-title = "Bryndzové halušky so slaninkou"
 
 +++
