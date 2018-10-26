@@ -20,5 +20,3 @@ fields:
     name: default
     config:
       required: true
-data_files:
-- config.toml
