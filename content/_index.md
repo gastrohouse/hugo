@@ -12,45 +12,66 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "26. 10. Piatok"
+day = "31. 10. Streda"
 [[daily.food]]
-title = "Bačovská polievka"
+title = "Šampionová polievka"
+[[daily.food]]
+mark = "A"
+price = ""
+title = "Hovädzia štefánska pečienka (mäso), ryža"
+[[daily.food]]
+mark = "B"
+price = ""
+title = "Bravčová pečená krkovička s kapustou, knedľa"
+[[daily.food]]
+mark = "C"
+price = ""
+title = "Kuracie prsia na nivovej omáčke, opekané zemiaky"
+[[daily.food]]
+mark = "D"
+price = ""
+title = "Penne s boloňskou omáčkou a syrom"
+[[daily.food]]
+title = "Granatiersky pochod s uhorkou"
+[[daily]]
+day = "2. 11. Piatok"
+[[daily.food]]
+title = "Slepačia polievka"
 [[daily.food]]
 title = "Držková polievka "
 [[daily.food]]
 mark = "A"
-title = "Hovädzie burgundské, knedľa"
+title = "Hovädzí tokáň, ryža"
 [[daily.food]]
 mark = "B"
-title = "Bravčový džuveč s uhorkou"
+title = "Bravčový guláš, knedľa"
 [[daily.food]]
 mark = "C"
-title = "Kuracie prsia na paprikovej omáčke s cestovinou"
+title = "Kuracie prsia zapekané s broskyňou, šunkou a syrom, ryža"
 [[daily.food]]
 mark = "D"
-title = "Bravčová pečienka na cibulke, ryža"
+title = "Bryndzové halušky so slaninou"
 [[daily.food]]
 mark = "E"
-title = "Zeleninový rezeň, zemiaková kaša"
+title = "Zapekaný karfiol so zemiakmi"
 [[daily]]
-day = "29. 10. Pondelok"
+day = "5. 11. Pondelok"
 [[daily.food]]
-title = "Fazuľová polievka"
+title = "Zeleninová polievka"
 [[daily.food]]
 mark = "A"
-price = ""
-title = "Hovädzie mäso na tekvicovej omáčke, knedľa"
+title = "Hovädzie na kôprovej omáčke, knedľa"
 [[daily.food]]
 mark = "B"
-price = ""
-title = "Bravčové na hrášku, ryža"
+title = "Bravčová kapsa, opekané zemiaky"
 [[daily.food]]
 mark = "C"
-price = ""
-title = "Kuracie nugetky s cesnakovým dipom, opekané zemiaky"
+title = "Kuracie soté so zeleninou, ryža"
 [[daily.food]]
 mark = "D"
-price = ""
-title = "Kelový prívarok s fašírkou"
+title = "Fazuľový prívarok s klobásou"
+[[daily.food]]
+mark = "E"
+title = "Ryžový nákyp s jablkami"
 
 +++
