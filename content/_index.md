@@ -32,6 +32,7 @@ mark = "D"
 price = ""
 title = "Zapekané zemiaky s mletým mäsom a lečom"
 [[daily.food]]
+mark = "E"
 title = "Gnochi na paradajkovej omáče so syrom"
 [[daily]]
 day = "8. 11. Štvrtok"
