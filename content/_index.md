@@ -12,66 +12,45 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "31. 10. Streda"
+day = "7. 11. Streda"
 [[daily.food]]
-title = "Šampionová polievka"
+title = "Zemiaková polievka"
 [[daily.food]]
 mark = "A"
 price = ""
-title = "Hovädzia štefánska pečienka (mäso), ryža"
+title = "Hovädzie chilli con carne, ryža"
 [[daily.food]]
 mark = "B"
 price = ""
-title = "Bravčová pečená krkovička s kapustou, knedľa"
+title = "Bravčový segedínsky guláš, knedľa"
 [[daily.food]]
 mark = "C"
 price = ""
-title = "Kuracie prsia na nivovej omáčke, opekané zemiaky"
+title = "Kurací rezeň v parížskom cestíčku, zemiaková kaša"
 [[daily.food]]
 mark = "D"
 price = ""
-title = "Penne s boloňskou omáčkou a syrom"
+title = "Zapekané zemiaky s mletým mäsom a lečom"
 [[daily.food]]
-title = "Granatiersky pochod s uhorkou"
+title = "Gnochi na paradajkovej omáče so syrom"
 [[daily]]
-day = "2. 11. Piatok"
+day = "8. 11. Štvrtok"
 [[daily.food]]
-title = "Slepačia polievka"
-[[daily.food]]
-title = "Držková polievka "
+title = "Šošovicová polievka "
 [[daily.food]]
 mark = "A"
-title = "Hovädzí tokáň, ryža"
+title = "Hovädzie esterhászy, knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčový guláš, knedľa"
+title = "Bravčové soté v placke so syrom"
 [[daily.food]]
 mark = "C"
-title = "Kuracie prsia zapekané s broskyňou, šunkou a syrom, ryža"
+title = "Kuracie prsia plnené, ryža"
 [[daily.food]]
 mark = "D"
-title = "Bryndzové halušky so slaninou"
+title = "Zemiakové gule plnené udeným mäsom, varené zemiaky a kapusta"
 [[daily.food]]
 mark = "E"
-title = "Zapekaný karfiol so zemiakmi"
-[[daily]]
-day = "5. 11. Pondelok"
-[[daily.food]]
-title = "Zeleninová polievka"
-[[daily.food]]
-mark = "A"
-title = "Hovädzie na kôprovej omáčke, knedľa"
-[[daily.food]]
-mark = "B"
-title = "Bravčová kapsa, opekané zemiaky"
-[[daily.food]]
-mark = "C"
-title = "Kuracie soté so zeleninou, ryža"
-[[daily.food]]
-mark = "D"
-title = "Fazuľový prívarok s klobásou"
-[[daily.food]]
-mark = "E"
-title = "Ryžový nákyp s jablkami"
+title = "Vyprážané šampióny, varené zemiaky"
 
 +++
