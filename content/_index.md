@@ -45,10 +45,11 @@ title = "Španielský vtáčik, tarhoňa"
 mark = "B"
 title = "Bravčová pečená krkovička s kapustou, knedľa"
 [[daily.food]]
-title = ""
+mark = "C"
+title = "Kuracie vyprážané stehná, ryža"
 [[daily.food]]
-title = ""
+title = "Zaprávaná zelenina s voľským okom, varené zemiaky"
 [[daily.food]]
-title = ""
+title = "Roľnícke zemiaky s mletým mäsom"
 
 +++
