@@ -48,8 +48,10 @@ title = "Bravčová pečená krkovička s kapustou, knedľa"
 mark = "C"
 title = "Kuracie vyprážané stehná, ryža"
 [[daily.food]]
+mark = "D"
 title = "Zaprávaná zelenina s voľským okom, varené zemiaky"
 [[daily.food]]
+mark = "E"
 title = "Roľnícke zemiaky s mletým mäsom"
 
 +++
