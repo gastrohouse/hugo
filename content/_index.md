@@ -45,13 +45,10 @@ title = "Španielský vtáčik, tarhoňa"
 mark = "B"
 title = "Bravčová pečená krkovička s kapustou, knedľa"
 [[daily.food]]
-mark = "C"
-title = "Kuracie nugetky s cesnakovým dipom, opekané zemiaky"
+title = ""
 [[daily.food]]
-mark = "D"
-title = "Šošovicový prívarok s fašírkou"
+title = ""
 [[daily.food]]
-mark = "E"
-title = "Ryžový nákyp s jablkami"
+title = ""
 
 +++
