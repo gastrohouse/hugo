@@ -12,46 +12,67 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "3. 12. Pondelok"
+day = "5. 12. Streda"
 [[daily.food]]
-title = "Hrachová polievka s krutónmi"
+title = "Frankfurtská polievka"
 [[daily.food]]
 mark = "A"
-price = ""
-title = "Hovädzie na paradajkovej omáčke, knedľa"
+title = "Hovädzie na španielský spôsob. knedľa"
 [[daily.food]]
 mark = "B"
-price = ""
-title = "Bravčové na hrášku, tarhoňa"
+title = "Bravčový černohorský rezeň, opekané zemiaky"
 [[daily.food]]
 mark = "C"
-price = ""
-title = "Kuracie soté na šampiónoch, ryža"
+title = "Morčacie prsia špikované slaninkou, ryža"
 [[daily.food]]
 mark = "D"
-price = ""
-title = "Kelový prívarok s fašírkou"
+title = "Zemiakové gulky plnené údeným mäsom, kapusta "
 [[daily.food]]
 mark = "E"
-title = "Tvarohová žemľovka s jablkami"
+title = "Zapekaný karfiol so zemiakmi"
 [[daily]]
-day = "4. 12. Utorok"
+day = "6. 12. Štvrtok"
 [[daily.food]]
-title = "Krupková polievka s údeným mäsom a zeleninou"
+title = "Šošovicová polievka"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie štefánske, slovenská ryža"
+price = ""
+title = "Hovädzie chilli con carne, ryža"
 [[daily.food]]
 mark = "B"
-title = "Bravčový segedínsky guláš, knedľa"
+price = ""
+title = "Bravčový vrabec s kapustou, knedľa"
 [[daily.food]]
 mark = "C"
-title = "Kuracie prsia na grile, zemiaková kaša"
+price = ""
+title = "Kuracie prsia so zeleninou, ryža"
 [[daily.food]]
 mark = "D"
-title = "Lasagne"
+price = ""
+title = "Bravčová pečeň na cibulke, slovenská ryža"
 [[daily.food]]
 mark = "E"
-title = "Vyprážaný encián, opekané zemiaky"
+title = "Hlivový guláš s cestovinou"
+[[daily]]
+day = "7. 12. Piatok"
+[[daily.food]]
+title = "Bačovská polievka"
+[[daily.food]]
+title = "Držková polievka"
+[[daily.food]]
+mark = "A"
+title = "Hovädzie srdcia na smotane, knedľa"
+[[daily.food]]
+mark = "B"
+title = "Bravčové rebierko na leči, varené zemiaky"
+[[daily.food]]
+mark = "C"
+title = "Hydinové rizotto so zeleninou a syrom"
+[[daily.food]]
+mark = "D"
+title = "Koložvárska kapusta"
+[[daily.food]]
+mark = "E"
+title = "Zeleninový rezeň, zemiaková kaša"
 
 +++
