@@ -12,67 +12,46 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "5. 12. Streda"
+day = "11. 12. Utorok"
 [[daily.food]]
-title = "Frankfurtská polievka"
+title = "Gulášová polievka"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie na španielský spôsob. knedľa"
+title = "Hovädzie na tekvicovej omáčke. knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčový černohorský rezeň, opekané zemiaky"
+title = "Bravčové tatranské soté v placke "
 [[daily.food]]
 mark = "C"
-title = "Morčacie prsia špikované slaninkou, ryža"
+title = "Grilované kurčatá, ryža"
 [[daily.food]]
 mark = "D"
-title = "Zemiakové gulky plnené údeným mäsom, kapusta "
+title = "Údené mäso s cibuľkou, hrachová kaša"
 [[daily.food]]
 mark = "E"
-title = "Zapekaný karfiol so zemiakmi"
+title = "Zapekané cestoviny s hlivou a zeleninou"
 [[daily]]
-day = "6. 12. Štvrtok"
+day = "12. 12. Streda"
 [[daily.food]]
-title = "Šošovicová polievka"
+title = "Karfiolová polievka"
 [[daily.food]]
 mark = "A"
 price = ""
-title = "Hovädzie chilli con carne, ryža"
+title = "Hovädzia sviečková na smotane, knedľa"
 [[daily.food]]
 mark = "B"
 price = ""
-title = "Bravčový vrabec s kapustou, knedľa"
+title = "Bravčové mäso na paprike, cestovina"
 [[daily.food]]
 mark = "C"
 price = ""
-title = "Kuracie prsia so zeleninou, ryža"
+title = "Kuracie prsia na horčicovej omáčke, hranolky"
 [[daily.food]]
 mark = "D"
 price = ""
-title = "Bravčová pečeň na cibulke, slovenská ryža"
-[[daily.food]]
-mark = "E"
-title = "Hlivový guláš s cestovinou"
-[[daily]]
-day = "7. 12. Piatok"
-[[daily.food]]
-title = "Bačovská polievka"
-[[daily.food]]
-title = "Držková polievka"
-[[daily.food]]
-mark = "A"
-title = "Hovädzie srdcia na smotane, knedľa"
-[[daily.food]]
-mark = "B"
-title = "Bravčové rebierko na leči, varené zemiaky"
-[[daily.food]]
-mark = "C"
-title = "Hydinové rizotto so zeleninou a syrom"
-[[daily.food]]
-mark = "D"
 title = "Koložvárska kapusta"
 [[daily.food]]
 mark = "E"
-title = "Zeleninový rezeň, zemiaková kaša"
+title = "Špenátové halušky s nivovou omáčkou"
 
 +++
