@@ -12,46 +12,66 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "17. 12. Pondelok"
+day = "19. 12. Streda"
 [[daily.food]]
-title = "Šošovicová polievka"
+title = "Paradajková polievka so syrom"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie na chrenovej omáčke, knedľa"
+title = "Hovädzí maďarský guláš, knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčový záhorácky závitok, ryža"
+title = "Bravčové soté, ryža"
 [[daily.food]]
 mark = "C"
-title = "Kuracie nugetky, hranolky"
+title = "Kurací parížský rezeň, ryža"
 [[daily.food]]
 mark = "D"
-title = "Fazuľový prívarok s fašírkou"
+title = "Bryndzové tašky so smotanou a slaninkou"
 [[daily.food]]
 mark = "E"
-title = "Dukátové buchtičky s vanilkovým krémom a čokoládovou polevou"
+title = "Granatierský pochod"
 [[daily]]
-day = "18. 12. Utorok"
+day = "20. 12. Štvrtok"
 [[daily.food]]
-title = "Šampiónová polievka"
+title = "Hrstková polievka"
 [[daily.food]]
 mark = "A"
 price = ""
-title = "Hovädzie esterházsy, knedľa"
+title = "Hovädzie na španielský spôsob, slovenská ryža"
 [[daily.food]]
 mark = "B"
 price = ""
-title = "Bravčové na hrášku, ryža"
+title = "Bravčová krkovička s kapustou, knedľa"
 [[daily.food]]
 mark = "C"
 price = ""
-title = "Kuracie prsia na paprike, halušky"
+title = "Kuracie prsia plnené brokolicou, ryža"
 [[daily.food]]
 mark = "D"
 price = ""
-title = "Kapustový list, varené zemiaky"
+title = "Francúzske zemiaky"
 [[daily.food]]
 mark = "E"
-title = "Vyprážaný karfiol, varené zemiaky"
+title = "Zeleninový rezeň, zemiaková kaša"
+[[daily]]
+day = "21. 12. Piatok"
+[[daily.food]]
+title = "Držková polievka"
+[[daily.food]]
+title = "Brokolicová polievka"
+[[daily.food]]
+mark = "A"
+title = "Hovädzie srdcia na smotane, knedľa"
+[[daily.food]]
+mark = "B"
+title = "Bravčové stehno po srbsky, ryža"
+[[daily.food]]
+mark = "C"
+title = "Kurací rezeň, ryža"
+[[daily.food]]
+mark = "D"
+title = "Špenát s vajvom, varené zemiaky"
+[[daily.food]]
+title = "Bolognske špageti so syrom"
 
 +++
