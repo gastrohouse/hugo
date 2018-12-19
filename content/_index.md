@@ -70,8 +70,8 @@ mark = "C"
 title = "Kurací rezeň, ryža"
 [[daily.food]]
 mark = "D"
-title = "Špenát s vajvom, varené zemiaky"
+title = "Špenát s vajcom, varené zemiaky"
 [[daily.food]]
-title = "Bolognske špageti so syrom"
+title = "Bolognske špagety so syrom"
 
 +++
