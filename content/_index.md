@@ -12,66 +12,46 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "19. 12. Streda"
+day = "7. 1. Pondelok"
 [[daily.food]]
-title = "Paradajková polievka so syrom"
+title = "Zeleninová polievka s haluškami"
 [[daily.food]]
 mark = "A"
-title = "Hovädzí maďarský guláš, knedľa"
+title = "Hovädzie na kôprovej omáčke, knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčové soté, ryža"
+title = "Bravčové rebierka na rasci, opekané zemiaky"
 [[daily.food]]
 mark = "C"
-title = "Kurací parížský rezeň, ryža"
+title = "Kuracie soté so zeleninou, ryža"
 [[daily.food]]
 mark = "D"
-title = "Bryndzové tašky so smotanou a slaninkou"
+title = "Luskový prívarok s fašírkou,  varené zemiaky"
 [[daily.food]]
 mark = "E"
-title = "Granatierský pochod"
+title = "Anglická zelenina s voľským okom, varené zemiaky"
 [[daily]]
-day = "20. 12. Štvrtok"
+day = "8. 1. Utorok"
 [[daily.food]]
-title = "Hrstková polievka"
+title = "Fazuľová polievka"
 [[daily.food]]
 mark = "A"
 price = ""
-title = "Hovädzie na španielský spôsob, slovenská ryža"
+title = "Hovädzie na bratislavský spôsob, knedľa"
 [[daily.food]]
 mark = "B"
 price = ""
-title = "Bravčová krkovička s kapustou, knedľa"
+title = "Bravčový paprikáš, cestovina"
 [[daily.food]]
 mark = "C"
 price = ""
-title = "Kuracie prsia plnené brokolicou, ryža"
+title = "Kuracie prsia na šampiónoch, varené zemiaky"
 [[daily.food]]
 mark = "D"
 price = ""
-title = "Francúzske zemiaky"
+title = "Bravčová sekaná, zemiaková kaša"
 [[daily.food]]
 mark = "E"
-title = "Zeleninový rezeň, zemiaková kaša"
-[[daily]]
-day = "21. 12. Piatok"
-[[daily.food]]
-title = "Držková polievka"
-[[daily.food]]
-title = "Brokolicová polievka"
-[[daily.food]]
-mark = "A"
-title = "Hovädzie srdcia na smotane, knedľa"
-[[daily.food]]
-mark = "B"
-title = "Bravčové stehno po srbsky, ryža"
-[[daily.food]]
-mark = "C"
-title = "Kurací rezeň, ryža"
-[[daily.food]]
-mark = "D"
-title = "Špenát s vajcom, varené zemiaky"
-[[daily.food]]
-title = "Bolognske špagety so syrom"
+title = "Zapekaná brokolica so zemiakmi"
 
 +++
