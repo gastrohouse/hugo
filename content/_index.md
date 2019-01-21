@@ -12,25 +12,6 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "21. 1. Pondelok"
-[[daily.food]]
-title = "Frankfurtská polievka "
-[[daily.food]]
-mark = "A"
-title = "Hovädzie na chrenovej omáčke, knedľa"
-[[daily.food]]
-mark = "B"
-title = "Bravčový zahorácky závitok, varené zemiaky"
-[[daily.food]]
-mark = "C"
-title = "Kuraciesoté so zeleninou, ryža"
-[[daily.food]]
-mark = "D"
-title = "Zemiakový prívarok s klobásou"
-[[daily.food]]
-mark = "E"
-title = "Ryžový nákyp s jablkami"
-[[daily]]
 day = "22. 1. Utorok"
 [[daily.food]]
 title = "Minestrone polievka"
@@ -53,5 +34,24 @@ title = "Koložvárska kapusta"
 [[daily.food]]
 mark = "E"
 title = "Gnochi so špenátom, cuketou, baklažánom a cherry paradajkami na paradajkovej omáčke so syrom"
+[[daily]]
+day = "23. 1. Streda"
+[[daily.food]]
+title = "Kapustová polievka "
+[[daily.food]]
+mark = "A"
+title = "Hovädzie na burgundskej omáčke, knedľa"
+[[daily.food]]
+mark = "B"
+title = "Bravčová drotárska kapsa, opekané zemiaky"
+[[daily.food]]
+mark = "C"
+title = "Morčacie prsia špikované slaninkou na mrkvovej omáčke, ryža"
+[[daily.food]]
+mark = "D"
+title = "Pangasius v cestíčku, zemiaková kaša"
+[[daily.food]]
+mark = "E"
+title = "Zapekaný karfiol so zemiakmi"
 
 +++
