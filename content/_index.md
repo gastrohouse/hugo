@@ -12,7 +12,7 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "24. 1. Utorok"
+day = "24. 1. Štvrtok"
 [[daily.food]]
 title = "Fazuľová polievka"
 [[daily.food]]
