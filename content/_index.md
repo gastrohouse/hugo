@@ -43,10 +43,10 @@ mark = "A"
 title = "Hovädzia frankfurtská pečienka, knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčový černohorský rezeň, ryža"
+title = "Bravčový černohorský rezeň, varené zemiaky"
 [[daily.food]]
 mark = "C"
-title = "Kuracie prsia na šampiónoch, vlastný výber"
+title = "Kuracie prsia na šampiónoch, ryža"
 [[daily.food]]
 mark = "D"
 title = "Francúzske zemiaky"
