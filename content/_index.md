@@ -31,7 +31,7 @@ title = "Špageti carbonara"
 mark = "E"
 title = "Zapekaný karfiol so zemiakmi"
 [[daily]]
-day = "20. 2. Pondelok"
+day = "20. 2. Streda"
 [[daily.food]]
 title = "Paradajková polievka"
 [[daily.food]]
