@@ -58,14 +58,19 @@ day = "14. 3. Štvrtok"
 [[daily.food]]
 title = "Hrachová polievka s krutónmi"
 [[daily.food]]
+mark = "A"
 title = "Hovädzia štefánska pečienka, ryža"
 [[daily.food]]
+mark = "B"
 title = "Plnená paprika, knedľa"
 [[daily.food]]
+mark = "C"
 title = "Kuracie prsia na nivovej omáčke, opekané zemiaky"
 [[daily.food]]
+mark = "D"
 title = "Zapečené boloňské špageti so syrom"
 [[daily.food]]
+mark = "E"
 title = "Tofu a sojové mäso na čínsky spôsob"
 
 +++
