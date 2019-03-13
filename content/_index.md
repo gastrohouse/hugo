@@ -12,25 +12,6 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "12. 3.  Utorok"
-[[daily.food]]
-title = "Gulášová polievka"
-[[daily.food]]
-mark = "B"
-title = "Hovädzí námorník, tarhoňa"
-[[daily.food]]
-mark = "A"
-title = "Moravský vrabec s kapustou, knedľa"
-[[daily.food]]
-mark = "C"
-title = "Kuracie vyprážané stehná, ryža"
-[[daily.food]]
-mark = "D"
-title = "Držkový perkelt s haluškami"
-[[daily.food]]
-mark = "E"
-title = "Zapekaný karfiol so zemiakmi"
-[[daily]]
 day = "13. 3. Streda"
 [[daily.food]]
 title = "Zemiaková polievka"
@@ -69,5 +50,26 @@ title = "Koložvárska kapusta"
 [[daily.food]]
 mark = "E"
 title = "Tofu a sojové mäso na čínsky spôsob"
+[[daily]]
+day = "15. 3.  Piatok"
+[[daily.food]]
+title = "Držková polievka"
+[[daily.food]]
+title = "Slepačia polievka"
+[[daily.food]]
+mark = "B"
+title = "Hovädzie srdcia na smotane, knedľa"
+[[daily.food]]
+mark = "A"
+title = "Bravčové soté s hráškom, kolienka"
+[[daily.food]]
+mark = "C"
+title = "Kuracie prsia zapekané so šunkou, syrom a broskyňou, ryža"
+[[daily.food]]
+mark = "D"
+title = "Bryndzové halušky so slaninkou"
+[[daily.food]]
+mark = "E"
+title = "Zeleninové rizoto so syrom"
 
 +++
