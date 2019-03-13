@@ -50,9 +50,6 @@ title = "Morčacie mäso špikované slaninkou na karotkovej omáčke, ryža"
 mark = "D"
 price = ""
 title = "Špenát s vajcom, varené zemiaky"
-[[daily.food]]
-mark = "E"
-title = "Koložvárska kapusta"
 [[daily]]
 day = "14. 3. Štvrtok"
 [[daily.food]]
@@ -68,7 +65,7 @@ mark = "C"
 title = "Kuracie prsia na nivovej omáčke, opekané zemiaky"
 [[daily.food]]
 mark = "D"
-title = "Zapečené boloňské špageti so syrom"
+title = "Koložvárska kapusta"
 [[daily.food]]
 mark = "E"
 title = "Tofu a sojové mäso na čínsky spôsob"
