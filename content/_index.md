@@ -12,64 +12,46 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "13. 3. Streda"
+day = "18. 3. Pondelok"
 [[daily.food]]
-title = "Zemiaková polievka"
+title = "Zeleninová polievka"
 [[daily.food]]
 mark = "A"
 price = ""
-title = "Hovädzie Esterhazsy, knedľa"
+title = "Hovädzie burgundské, knedľa"
 [[daily.food]]
 mark = "B"
 price = ""
-title = "Bravčová pikantná kapsa, slovenská ryža"
+title = "Bravčové na rasci, ryža"
 [[daily.food]]
 mark = "C"
 price = ""
-title = "Morčacie mäso špikované slaninkou na karotkovej omáčke, ryža"
+title = "Kuracie nugetky s cesnakovým dipom, hranolky"
 [[daily.food]]
 mark = "D"
 price = ""
-title = "Špenát s vajcom, varené zemiaky"
-[[daily]]
-day = "14. 3. Štvrtok"
-[[daily.food]]
-title = "Hrachová polievka s krutónmi"
-[[daily.food]]
-mark = "A"
-title = "Hovädzia štefánska pečienka, ryža"
-[[daily.food]]
-mark = "B"
-title = "Plnená paprika, knedľa"
-[[daily.food]]
-mark = "C"
-title = "Kuracie prsia na nivovej omáčke, opekané zemiaky"
-[[daily.food]]
-mark = "D"
-title = "Koložvárska kapusta"
+title = "Zemiakový prívarok s fašírkou"
 [[daily.food]]
 mark = "E"
-title = "Tofu a sojové mäso na čínsky spôsob"
+title = "Tvarohová žemlovka s jablkami"
 [[daily]]
-day = "15. 3.  Piatok"
+day = "19. 3. Utorok"
 [[daily.food]]
-title = "Držková polievka"
-[[daily.food]]
-title = "Slepačia polievka"
-[[daily.food]]
-mark = "B"
-title = "Hovädzie srdcia na smotane, knedľa"
+title = "Kapustová polievka"
 [[daily.food]]
 mark = "A"
-title = "Bravčové soté s hráškom, kolienka"
+title = "Hovädzia sviečková na smotane, knedľa"
+[[daily.food]]
+mark = "B"
+title = "Bravčová roláda vitoša, varené zemiaky"
 [[daily.food]]
 mark = "C"
-title = "Kuracie prsia zapekané so šunkou, syrom a broskyňou, ryža"
+title = "Kuracie prsia na horčicovej omáčke, ryža"
 [[daily.food]]
 mark = "D"
-title = "Bryndzové halušky so slaninkou"
+title = "Mletý rezeň v cestíčku, zemiaková kaša"
 [[daily.food]]
 mark = "E"
-title = "Zeleninové rizoto so syrom"
+title = "Zapekané cestoviny so zeleninou"
 
 +++
