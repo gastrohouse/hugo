@@ -43,7 +43,7 @@ mark = "A"
 title = "Hovädzie filé s voľským okom, ryža"
 [[daily.food]]
 mark = "B"
-title = "Bravčový guláš, knedľa"
+title = "Bravčový sedmohradský guláš , knedľa"
 [[daily.food]]
 mark = "C"
 title = "Kuracie prsia na kari omáčke, hranolky"
