@@ -35,23 +35,23 @@ title = "Kuracie prsia plnené šunkou a syrom, opekané zemiaky"
 mark = "E"
 title = "Palacinky s lekvárom a šlahačkou"
 [[daily]]
-day = "28. 3. Štvrtok"
+day = "1. 4. Pondelok"
 [[daily.food]]
-title = "Šampionová polievka"
+title = "Šošovicová polievka"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie debrecínske, ryža"
+title = "Hovädzie na chrenovej omáčke, knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčový hamburské stehno, knedľa"
+title = "Bravčové pliecko na rozmaríne, tarhoňa"
 [[daily.food]]
 mark = "C"
-title = "Kuracie prsia na nivovej omáčke, varené zemiaky"
+title = "Kuracie soté so zeleninou, ryža"
 [[daily.food]]
 mark = "D"
-title = "Kapustové strapačky so slaninou"
+title = "Luskový prívarok s fašírkou"
 [[daily.food]]
 mark = "E"
-title = "Zeleninové ratatu, varené zemiaky"
+title = "Jablková žemlovka s tvarohom"
 
 +++
