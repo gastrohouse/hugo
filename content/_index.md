@@ -18,17 +18,18 @@ title = "Držková polievka"
 [[daily.food]]
 title = "Porkovo rascová polievka"
 [[daily.food]]
+mark = "A"
 title = "Hovädzie Esterhaszy, knedľa "
-[[daily.food]]
-mark = "D"
-price = ""
-title = "Hovädzie srdcia na smotane, knedľa"
 [[daily.food]]
 mark = "B"
 price = ""
-title = "Bravčové mexické soté, ryža"
+title = "Hovädzie srdcia na smotane, knedľa"
 [[daily.food]]
 mark = "C"
+price = ""
+title = "Bravčové mexické soté, ryža"
+[[daily.food]]
+mark = "D"
 price = ""
 title = "Kuracie prsia plnené šunkou a syrom, opekané zemiaky"
 [[daily.food]]
