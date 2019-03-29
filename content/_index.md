@@ -12,24 +12,28 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "27. 3. Streda"
+day = "29. 3. Piatok"
 [[daily.food]]
-title = "Boršč polievka"
+title = "Držková polievka"
 [[daily.food]]
-mark = "B"
-price = ""
-title = "Bravčový džuveč s uhorkou"
+title = "Porkovo rascová polievka"
 [[daily.food]]
-mark = "C"
-price = ""
-title = "Kurací parížsky rezeň, varené zemiaky"
+title = "Hovädzie Esterhaszy, knedľa "
 [[daily.food]]
 mark = "D"
 price = ""
-title = "Pštrosie vajcia, zemiaková kaša"
+title = "Hovädzie srdcia na smotane, knedľa"
+[[daily.food]]
+mark = "B"
+price = ""
+title = "Bravčové mexické soté, ryža"
+[[daily.food]]
+mark = "C"
+price = ""
+title = "Kuracie prsia plnené šunkou a syrom, opekané zemiaky"
 [[daily.food]]
 mark = "E"
-title = "Zapekaný karfiol so zemiakmi"
+title = "Palacinky s lekvárom a šlahačkou"
 [[daily]]
 day = "28. 3. Štvrtok"
 [[daily.food]]
