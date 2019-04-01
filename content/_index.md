@@ -12,47 +12,48 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "29. 3. Piatok"
+day = "2. 4. Utorok"
 [[daily.food]]
-title = "Držková polievka"
-[[daily.food]]
-title = "Porkovo rascová polievka"
+title = "Minestrone polievka"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie Esterhaszy, knedľa "
+title = "Hovädzie ma paradajkovej omáčke, knedľa "
 [[daily.food]]
 mark = "B"
 price = ""
 title = "Hovädzie srdcia na smotane, knedľa"
 [[daily.food]]
+mark = "B"
+price = ""
+title = "Bravčový rezeň, varené zemiaky"
+[[daily.food]]
 mark = "C"
 price = ""
-title = "Bravčové mexické soté, ryža"
+title = "Kuracie rizoto so zeleninou"
 [[daily.food]]
 mark = "D"
-price = ""
-title = "Kuracie prsia plnené šunkou a syrom, opekané zemiaky"
+title = "Treska v cestíčku, zemiaková kaša"
 [[daily.food]]
 mark = "E"
-title = "Palacinky s lekvárom a šlahačkou"
+title = "Kapustný list, varené zemiaky"
 [[daily]]
-day = "1. 4. Pondelok"
+day = "3. 4. Streda"
 [[daily.food]]
-title = "Šošovicová polievka"
+title = "Zemiaková polievka"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie na chrenovej omáčke, knedľa"
+title = "Hovädzí tokaň, ryža"
 [[daily.food]]
 mark = "B"
-title = "Bravčové pliecko na rozmaríne, tarhoňa"
+title = "Bravčová pečená krkovička s kapustou, knedľa"
 [[daily.food]]
 mark = "C"
-title = "Kuracie soté so zeleninou, ryža"
+title = "Kuracie prsia na horčicovej omáčke, hranolky"
 [[daily.food]]
 mark = "D"
-title = "Luskový prívarok s fašírkou"
+title = "Francúzske zemiaky"
 [[daily.food]]
 mark = "E"
-title = "Jablková žemlovka s tvarohom"
+title = "Tofu syr na čínsky spôsob so zeleninou, ryža"
 
 +++
