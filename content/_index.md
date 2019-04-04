@@ -12,28 +12,6 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "4. 4. Štvrtok"
-[[daily.food]]
-title = "Kapustová polievka"
-[[daily.food]]
-mark = "A"
-price = ""
-title = "Hovädzie na španielský spôsob, knedľa"
-[[daily.food]]
-mark = "B"
-price = ""
-title = "Bravčové srbské rebierka, opekané zemiaky"
-[[daily.food]]
-mark = "C"
-price = ""
-title = "Grilované kurčatá, ryža"
-[[daily.food]]
-mark = "D"
-title = "Lahôdková sekaná, zemiaková kaša"
-[[daily.food]]
-mark = "E"
-title = "Zapekaná brokolica"
-[[daily]]
 day = "5. 4. Piatok"
 [[daily.food]]
 title = "Držková polievka"
@@ -54,5 +32,27 @@ title = "Zeleninový rezeň, varené zemiaky"
 [[daily.food]]
 mark = "E"
 title = "Zemiakové guľky plnené údeným mäsom s kapustou"
+[[daily]]
+day = "8. 4. Pondelok"
+[[daily.food]]
+title = "Hrachová polievka"
+[[daily.food]]
+mark = "A"
+price = ""
+title = "Hovädzie na tekvicovej omáčke, knedľa"
+[[daily.food]]
+mark = "B"
+price = ""
+title = "Bravčové sthno na šampiónoch, ryža"
+[[daily.food]]
+mark = "C"
+price = ""
+title = "Kurací perkelt, cestoviny"
+[[daily.food]]
+mark = "D"
+title = "Zemiakový prívarok s fašírkou"
+[[daily.food]]
+mark = "E"
+title = "Dukátové buchtičky s vanilkovým krémom a čokoládou"
 
 +++
