@@ -16,7 +16,7 @@ day = "4. 4. Štvrtok"
 [[daily.food]]
 title = "Kapustová polievka"
 [[daily.food]]
-mark = "B"
+mark = "A"
 price = ""
 title = "Hovädzie na španielský spôsob, knedľa"
 [[daily.food]]
