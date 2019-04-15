@@ -12,47 +12,45 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "12. 4. Piatok"
+day = "16. 4. Utorok"
 [[daily.food]]
-title = "Držková polievka"
-[[daily.food]]
-title = "Bačovská polievka"
+title = "Gulášová polievka"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie debrecínske, knedľa"
+title = "Hovädzie paprikové soté, tarhoňa"
 [[daily.food]]
 mark = "B"
-title = "Bravčové tatrsanské soté v placke"
+title = "Bravčový moravský vrabec, knedľa"
 [[daily.food]]
 mark = "C"
-title = "Kuracie prsia na kukuričnej omáčke, ryža"
+title = "Kuracie prsia so zeleninou, ryža"
 [[daily.food]]
 mark = "D"
-title = "Zemiakové gulky plnené údeným mäsom s kapustou"
+title = "Lahôdková sekaná s paradajkovou kapustou, varené zemiaky"
 [[daily.food]]
 mark = "E"
-title = "Zaprávaná zelenina s voľským okom, varené zemiaky"
+title = "Vyprážané šampióny, varené zemiaky"
 [[daily]]
-day = "15. 4. Pondelok"
+day = "17. 4. Streda"
 [[daily.food]]
-title = "Paradajková polievka so syrom"
+title = "Frankfurtská polievka"
 [[daily.food]]
 mark = "A"
 price = ""
-title = "Hovädzie štefánske, ryža"
+title = "Hovädzie na kôprovej omáčke, knedľa"
 [[daily.food]]
 mark = "B"
 price = ""
-title = "Bravčový sedmohradský guláš, knedľa"
+title = "Bravčové na hrášku, varené zemiaky"
 [[daily.food]]
 mark = "C"
 price = ""
-title = "Kuracie nugetky  s cesnakovým dipom, hranolky"
+title = "Kuracie prsia v cestíčku, ryža"
 [[daily.food]]
 mark = "D"
-title = "Šošovicový prívarok s fašírkou, varené zemiaky"
+title = "Špageti carbonara"
 [[daily.food]]
 mark = "E"
-title = "Ryžový nákyp s jablkami"
+title = "Koložvárska kapusta"
 
 +++
