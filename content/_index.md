@@ -48,8 +48,5 @@ title = "Kuracie prsia na nivovej omáčke, opekané zemiaky"
 [[daily.food]]
 mark = "D"
 title = "Rizoto s tofu syrom a zeleninou"
-[[daily.food]]
-mark = ""
-title = ""
 
 +++
