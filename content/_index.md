@@ -12,44 +12,44 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "9. 5. Štvrtok"
+day = "13. 5. Pondelok"
 [[daily.food]]
 mark = ""
-title = "Fazulová polievka na kyslo"
+title = "Minestrone"
 [[daily.food]]
 mark = "A"
-title = "Hovädzí námorník, ryža"
+title = "Hovädzie na tekvicové omáčke"
 [[daily.food]]
 mark = "B"
-title = "Bravčový moravský vrabec, knedľa"
+title = "Bravčový záhorácky závitok, ryža"
 [[daily.food]]
 mark = "C"
-title = "Kuracie prsia na horčicovej omáčke, opekané zemiaky "
+title = "Kurací perkelt s haluškami"
 [[daily.food]]
 mark = "E"
-title = "Zapekané roľnícke zemiaky"
+title = "Šošovicový prívarok s fašírkou"
 [[daily.food]]
 mark = "E"
-title = "Špenát s volským okom, varené zemiaky"
+title = "Ryžový nákyp s jablkami"
 [[daily]]
-day = "10. 5. Piatok"
+day = "14. 5. Utorok"
 [[daily.food]]
 mark = ""
-title = "Držková polievka"
-[[daily.food]]
-mark = ""
-title = "Cesnaková polievka"
+title = "Zemiaková polievka"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie srdcia na smotane, knedľa"
+title = "Hovädzí maďarský guláš, knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčový džuveč s uhorkou"
+title = "Bravčové karé na pive, ryža"
 [[daily.food]]
 mark = "C"
-title = "Kurací rezeň, varené zemiaky"
+title = "Kuracie prsia na karí omáčke, ryža"
 [[daily.food]]
 mark = "D"
-title = "Zeleninový rezeň, zemiaková kaša"
+title = "Pangasius v cestíčku, zemiaková kaša"
+[[daily.food]]
+mark = "E"
+title = "Lasagne"
 
 +++
