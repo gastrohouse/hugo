@@ -12,44 +12,67 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "13. 5. Pondelok"
+day = "15. 5. Streda"
 [[daily.food]]
 mark = ""
-title = "Minestrone"
+title = "Boršč"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie na tekvicové omáčke"
+title = "Hovädzí španielský vtáčik, ryža"
 [[daily.food]]
 mark = "B"
-title = "Bravčový záhorácky závitok, ryža"
+title = "Bravčové hamburské stehno, knedľa"
 [[daily.food]]
 mark = "C"
-title = "Kurací perkelt s haluškami"
-[[daily.food]]
-mark = "E"
-title = "Šošovicový prívarok s fašírkou"
-[[daily.food]]
-mark = "E"
-title = "Ryžový nákyp s jablkami"
-[[daily]]
-day = "14. 5. Utorok"
-[[daily.food]]
-mark = ""
-title = "Zemiaková polievka"
-[[daily.food]]
-mark = "A"
-title = "Hovädzí maďarský guláš, knedľa"
-[[daily.food]]
-mark = "B"
-title = "Bravčové karé na pive, ryža"
-[[daily.food]]
-mark = "C"
-title = "Kuracie prsia na karí omáčke, ryža"
+title = "Kuracie prsia s fazulkovými lúskami a karotkou, varené zemiaky"
 [[daily.food]]
 mark = "D"
-title = "Pangasius v cestíčku, zemiaková kaša"
+title = "Vyprážaný encián s tatárskou omáčkou, opekané zemiaky"
 [[daily.food]]
 mark = "E"
-title = "Lasagne"
+title = "Boloňské špagety so syrom"
+[[daily]]
+day = "16. 5. Štvrtok"
+[[daily.food]]
+mark = ""
+title = "Brokolicová polievka"
+[[daily.food]]
+mark = "A"
+title = "Hovädzie nitrianské, knedľa"
+[[daily.food]]
+mark = "B"
+title = "Bravčové tatranské soté, tarhoňa"
+[[daily.food]]
+mark = "C"
+title = "Pečené kurča, ryža"
+[[daily.food]]
+mark = "E"
+title = "Pštrosie vajce, zemiaková kaša"
+[[daily.food]]
+mark = "E"
+title = "Vyprážaný karfiol, varené zemiaky"
+[[daily]]
+day = "17. 5. Piatok"
+[[daily.food]]
+mark = ""
+title = "Držková polievka"
+[[daily.food]]
+mark = ""
+title = "Bačovská polievka"
+[[daily.food]]
+mark = "A"
+title = "Hovädzie stroganoff, ryža"
+[[daily.food]]
+mark = "B"
+title = "Bravčové stehno bratislavské, knedľa"
+[[daily.food]]
+mark = "C"
+title = "Kuracie prsia plnené so šunkou a syrom, ryža"
+[[daily.food]]
+mark = "D"
+title = "Bryndzové pirohy so smotanou a slaninkou"
+[[daily.food]]
+mark = "E"
+title = "Zapekaná cuketa plnená so zeleninou, varené zemiaky"
 
 +++
