@@ -12,45 +12,45 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
-day = "pondelok"
+day = "21. 5. Pondelok"
 [[daily.food]]
 mark = ""
-title = ""
+title = "Šošovicová polievka"
 [[daily.food]]
 mark = "A"
-title = ""
+title = "Hovädzie na chrenovej omáčke, knedľa"
 [[daily.food]]
 mark = "B"
-title = ""
+title = "Bravčové na rasci, ryža"
 [[daily.food]]
 mark = "C"
-title = ""
+title = "Kuracie nugetky s paprikovým dipom, hranolky"
 [[daily.food]]
 mark = "D"
-title = ""
+title = "Zemiakový prívarok s klobásou"
 [[daily.food]]
 mark = "E"
-title = ""
+title = "Dukátové buchtičky s vanilkovým krémom"
 [[daily]]
-day = "Utorok"
+day = "22. 5. Utorok"
 [[daily.food]]
 mark = ""
-title = ""
+title = "Frankfurtská polievka"
 [[daily.food]]
 mark = "A"
-title = ""
+title = "Hovädzí tokáň, slovenská ryža"
 [[daily.food]]
 mark = "B"
-title = ""
+title = "Pečená krkovička s kapustou, knedľa"
 [[daily.food]]
 mark = "C"
-title = ""
+title = "Kurací steak na grile, ryža"
 [[daily.food]]
 mark = "D"
-title = ""
+title = "Francúzske zemiaky"
 [[daily.food]]
 mark = "E"
-title = ""
+title = "Hlivový guláš s cestovinou"
 [[daily]]
 day = "15. 5. Streda"
 [[daily.food]]
