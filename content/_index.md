@@ -52,67 +52,67 @@ title = "Francúzske zemiaky"
 mark = "E"
 title = "Hlivový guláš s cestovinou"
 [[daily]]
-day = "15. 5. Streda"
+day = "23. 5. Streda"
 [[daily.food]]
 mark = ""
-title = "Boršč"
+title = "Kapustová polievka s klobásou"
 [[daily.food]]
 mark = "A"
-title = "Hovädzí španielský vtáčik, ryža"
+title = "Hovädzie na šampiónoch, knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčové hamburské stehno, knedľa"
+title = "Bravčová drotárska kapsa, opekané zemiaky"
 [[daily.food]]
 mark = "C"
-title = "Kuracie prsia s fazulkovými lúskami a karotkou, varené zemiaky"
+title = "Vyprážané kuracie stehná, ryža"
 [[daily.food]]
 mark = "D"
-title = "Vyprážaný encián s tatárskou omáčkou, opekané zemiaky"
+title = "Domáca lahôdková sekaná s paradajkovou omáčkou, varené zemiaky"
 [[daily.food]]
 mark = "E"
-title = "Boloňské špagety so syrom"
+title = "Tofu syr s brokolicou, zemiaková kaša"
 [[daily]]
-day = "16. 5. Štvrtok"
+day = "24. 5. Štvrtok"
 [[daily.food]]
 mark = ""
-title = "Brokolicová polievka"
+title = "Krúpková polievka s údeným mäsom"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie nitrianské, knedľa"
+title = "Segedínsky guláš, knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčové tatranské soté, tarhoňa"
+title = "Bravčová pečienka na cibulke, ryža"
 [[daily.food]]
 mark = "C"
-title = "Pečené kurča, ryža"
+title = "Kuracie prsia v parížskom cestíčku, opekané zemiaky"
 [[daily.food]]
 mark = "E"
-title = "Pštrosie vajce, zemiaková kaša"
+title = "Čevapčiči s cibulkou a horčicou, varené zemiaky"
 [[daily.food]]
 mark = "E"
-title = "Vyprážaný karfiol, varené zemiaky"
+title = "Zapekané cestoviny so zeleninou"
 [[daily]]
-day = "17. 5. Piatok"
+day = "25. 5. Piatok"
 [[daily.food]]
 mark = ""
 title = "Držková polievka"
 [[daily.food]]
 mark = ""
-title = "Bačovská polievka"
+title = "Rascová polievka s vajcom"
 [[daily.food]]
 mark = "A"
-title = "Hovädzie stroganoff, ryža"
+title = "Hovädzie na španielský spôsob, knedľa"
 [[daily.food]]
 mark = "B"
-title = "Bravčové stehno bratislavské, knedľa"
+title = "Bravčové mexické soté, ryža"
 [[daily.food]]
 mark = "C"
-title = "Kuracie prsia plnené so šunkou a syrom, ryža"
+title = "Kuracie prsia na smotanovej omáčke, varené zemiaky"
 [[daily.food]]
 mark = "D"
-title = "Bryndzové pirohy so smotanou a slaninkou"
+title = "Zeleninový rezeň, zemiaková kaša"
 [[daily.food]]
 mark = "E"
-title = "Zapekaná cuketa plnená so zeleninou, varené zemiaky"
+title = "Bravčový džuveč s uhorkou"
 
 +++
