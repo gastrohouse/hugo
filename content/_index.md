@@ -12,6 +12,46 @@ url = ""
 cta = "Ohodnotiť"
 title = "Napíšte nám ako Vám u nás chutilo. Zaujíma nás Váš názor."
 [[daily]]
+day = "pondelok"
+[[daily.food]]
+mark = ""
+title = ""
+[[daily.food]]
+mark = "A"
+title = ""
+[[daily.food]]
+mark = "B"
+title = ""
+[[daily.food]]
+mark = "C"
+title = ""
+[[daily.food]]
+mark = "D"
+title = ""
+[[daily.food]]
+mark = "E"
+title = ""
+[[daily]]
+day = "Utorok"
+[[daily.food]]
+mark = ""
+title = ""
+[[daily.food]]
+mark = "A"
+title = ""
+[[daily.food]]
+mark = "B"
+title = ""
+[[daily.food]]
+mark = "C"
+title = ""
+[[daily.food]]
+mark = "D"
+title = ""
+[[daily.food]]
+mark = "E"
+title = ""
+[[daily]]
 day = "15. 5. Streda"
 [[daily.food]]
 mark = ""
