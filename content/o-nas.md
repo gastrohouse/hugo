@@ -1,9 +1,8 @@
-+++
-layout = "page"
-permalink = "/o-nas/"
-title = "O nás"
-
-+++
+---
+layout: page
+permalink: /o-nas/
+title: O nás
+---
 
 Páni a dámy, milí naši hladoši, menučkári, stravníci! Ak máte chuť na naše klasické jedlá z domácej kuchyne za rozumnú cenu, ako napríklad: guláše, prívarky a jednoducho tradičné recepty našich starých mám, či na maškrty ako veterníky, krémeše, laskonky pri kávičke, navštívte nás v OD Slimák na Hálkovej 1!
 

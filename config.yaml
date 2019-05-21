@@ -1,0 +1,61 @@
+defaultContentLanguage: sk
+baseURL: 'https://gastrohouse.sk'
+disableHugoGeneratorInject: true
+metaDataFormat: yaml
+disableKinds:
+  - sitemap
+  - RSS
+  - taxonomy
+  - taxonomyTerm
+title: Gastro House
+menu:
+  footer:
+    - name: Kontakt
+      url: /kontakt/
+      weight: 2
+    - name: O nás
+      url: /o-nas/
+      weight: 1
+  main:
+    - name: Kontakt
+      url: /kontakt/
+      weight: 2
+    - name: O nás
+      url: /o-nas/
+      weight: 1
+  secondary:
+    - name: Denné menu
+      url: '/#denne-menu'
+      weight: 2
+    - name: Jedálny lístok
+      url: /jedalny-listok/
+      weight: 1
+outputs:
+  home:
+    - HTML
+  page:
+    - HTML
+params:
+  cloudinary:
+    default: '400'
+    url: 'https://res.cloudinary.com/gastrohouse/image/upload'
+    widths:
+      - '200'
+      - '300'
+      - '400'
+      - '500'
+      - '600'
+      - '700'
+      - '800'
+      - '900'
+      - '1000'
+      - '1100'
+      - '1200'
+      - '1300'
+      - '1400'
+      - '1500'
+      - '1600'
+      - '1700'
+      - '1800'
+      - '1900'
+      - '2000'
