@@ -16,27 +16,43 @@
 {{- with .Params.daily }}
 <a id="denne-menu" class="anchor"></a>
 <section class="denne-menu">
-<div><h2>Denné menu</h2><img src="{{ "tanier.jpg" | relURL }}" alt=""></div>
+<div><h2>Denné menu</h2><img src="{{ `tanier.jpg` | relURL }}" alt=""></div>
 <div>
 
-{{ range . -}}
-<section>
-<h2>{{ .day }}</h2>
+{{ range (sort (where . "day" ">=" (dateFormat "2006-01-02" now)) "day" "asc") -}}
+{{ $time := time .day -}}
+<section data-timestamp="{{ $time.Unix }}">
+<h2>{{ dateFormat "02. 01." $time }} {{ i18n (dateFormat "Monday" $time) }}</h2>
 <ul>
 {{- range .food -}}
 <li>{{ if isset . "mark" }}<div>{{ .mark }}</div>{{ end }}<h3>{{ .title }}</h3></li>
 {{ end -}}
 </ul>
 </section>
-{{ end }}
+{{ end -}}
 </div>
 </section>
+<script>
+(function() {
+	let days=[].slice.call (document.querySelectorAll('.denne-menu div section[data-timestamp]'));
+
+	if(!days) { return; }
+
+	var timestamp=Math.floor((new Date().getTime() / 1000) / 86400) * 86400;
+
+	days.forEach(function(day) {
+		if(day.dataset.timestamp >= timestamp) { return; }
+
+		day.outerHTML=null;
+	});
+})();
+</script>
 {{- end }}
 
 {{ with .Params.nazor -}}
 <section class="nazor">
 {{ if .title }}<h2>{{ .title }}</h2>{{ end }}
-{{ if .cta }}<a href="{{ "/kontakt/" | relURL }}">{{ .cta }}</a>{{ end }}
+{{ if .cta }}<a href="{{ `/kontakt/` | relURL }}">{{ .cta }}</a>{{ end }}
 </section>
 {{- end }}
 

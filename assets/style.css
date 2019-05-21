@@ -120,19 +120,28 @@ header .logo{width:100%;justify-content:center;}
 
 @media screen and (min-width:45rem),print and (min-width:14cm) {
 .denne-menu{padding:0;}
-.denne-menu > div:last-child{display:flex;}
-.denne-menu section{flex:1 1 50%;border-left:1px solid #E6E6E6;padding:0 5%;margin:1rem 0;}
+.denne-menu > div:last-child{display:flex;flex-wrap:wrap;}
+.denne-menu section{flex:0 1 50%;border-left:1px solid #E6E6E6;padding:0 5%;margin:1rem 0;}
 .denne-menu section:first-child{border:0;}
 .denne-menu section h2{margin:0 0 0.625rem 0;}
 }
 
+@media screen and (min-width:70rem) {
+.denne-menu section{flex:0 1 33.33%;margin:2rem 0;}
+}
+
 @media screen and (min-width:75rem) {
 .denne-menu{display:flex;padding:4rem 2rem;}
-.denne-menu > div:first-child{display:block;text-align:center;padding:0 3rem 0 0;}
+.denne-menu > div:first-child{display:block;text-align:center;padding:0 3rem 0 0;flex:0 1 30%;}
 .denne-menu > div:first-child img{width:100%;}
 .denne-menu > div:first-child h2{font-size:2.25rem;margin:0;}
-.denne-menu > div:last-child{flex:1 1 auto;}
+.denne-menu > div:last-child{flex:1 1 70%;}
+.denne-menu section{flex:0 1 50%;}
 .denne-menu section:first-child{border-left:1px solid #E6E6E6;}
+}
+
+@media screen and (min-width:90rem) {
+.denne-menu section{flex:0 1 33.33%;}
 }
 
 @media print {
