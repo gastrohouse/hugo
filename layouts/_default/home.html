@@ -18,8 +18,7 @@
 <section class="denne-menu">
 <div><h2>Denné menu</h2><img src="{{ `tanier.jpg` | relURL }}" alt=""></div>
 <div>
-
-{{ range (sort (where . "day" ">=" (dateFormat "2006-01-02" now)) "day" "asc") -}}
+{{ range (sort (where . "day" ">=" (dateFormat "2006-01-02" now.UTC)) "day" "asc") -}}
 {{ $time := time .day -}}
 <section data-timestamp="{{ $time.Unix }}">
 <h2>{{ dateFormat "02. 01." $time }} {{ i18n (dateFormat "Monday" $time) }}</h2>
@@ -34,7 +33,7 @@
 </section>
 <script>
 (function() {
-	let days=[].slice.call (document.querySelectorAll('.denne-menu div section[data-timestamp]'));
+	let days=[].slice.call(document.querySelectorAll('.denne-menu div section[data-timestamp]'));
 
 	if(!days) { return; }
 

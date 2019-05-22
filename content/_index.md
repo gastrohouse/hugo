@@ -1,6 +1,6 @@
 ---
 daily:
-- day: 2019-05-21T00:00:00+00:00
+- day: 2019-05-20T00:00:00+00:00
   food:
   - mark: ""
     title: Šošovicová polievka
@@ -14,7 +14,7 @@ daily:
     title: Zemiakový prívarok s klobásou
   - mark: E
     title: Dukátové buchtičky s vanilkovým krémom
-- day: 2019-05-22T00:00:00+00:00
+- day: 2019-05-21T00:00:00+00:00
   food:
   - mark: ""
     title: Frankfurtská polievka
@@ -28,7 +28,7 @@ daily:
     title: Francúzske zemiaky
   - mark: E
     title: Hlivový guláš s cestovinou
-- day: 2019-05-23T00:00:00+00:00
+- day: 2019-05-22T00:00:00+00:00
   food:
   - mark: ""
     title: Kapustová polievka s klobásou
@@ -42,7 +42,7 @@ daily:
     title: Domáca lahôdková sekaná s paradajkovou omáčkou, varené zemiaky
   - mark: E
     title: Tofu syr s brokolicou, zemiaková kaša
-- day: 2019-05-24T00:00:00+00:00
+- day: 2019-05-23T00:00:00+00:00
   food:
   - mark: ""
     title: Krúpková polievka s údeným mäsom
@@ -56,7 +56,7 @@ daily:
     title: Čevapčiči s cibulkou a horčicou, varené zemiaky
   - mark: E
     title: Zapekané cestoviny so zeleninou
-- day: 2019-05-25T00:00:00+00:00
+- day: 2019-05-24T00:00:00+00:00
   food:
   - mark: ""
     title: Držková polievka
