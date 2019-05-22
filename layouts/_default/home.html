@@ -20,6 +20,7 @@
 <div>
 {{ range (sort (where . "day" ">=" (dateFormat "2006-01-02" now.UTC)) "day" "asc") -}}
 {{ $time := time .day -}}
+{{ if (not (hasPrefix $time "unable to parse")) -}}
 <section data-timestamp="{{ $time.Unix }}">
 <h2>{{ dateFormat "02. 01." $time }} {{ i18n (dateFormat "Monday" $time) }}</h2>
 <ul>
@@ -28,6 +29,7 @@
 {{ end -}}
 </ul>
 </section>
+{{ end -}}
 {{ end -}}
 </div>
 </section>
